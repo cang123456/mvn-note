@@ -43,9 +43,11 @@
    
    ```
 
-   补充：![image-20250914112843608](C:\Users\31672\AppData\Roaming\Typora\typora-user-images\image-20250914112843608.png)
+   配置本地仓库：<img alt="image-20250914112843608" src="maven的安装和配置.assets\image-20250914112843608.png"/>
 
-   下一步：![image-20250914113144076](C:\Users\31672\AppData\Roaming\Typora\typora-user-images\image-20250914113144076.png)
+   然后复制路径：
+
+   <img alt="image-20250914113144076" src="maven的安装和配置.assets/image-20250914113144076-1757825476091.png"/>
 
    到这里，本地仓库就配置好了
 
@@ -64,6 +66,6 @@
    
 7. idea配置教程
 
-8. ![image-20250914114644438](C:\Users\31672\AppData\Roaming\Typora\typora-user-images\image-20250914114644438.png)
+8. <img alt="image-20250914114644438" src="maven的安装和配置.assets/image-20250914114644438.png"/>
 
    打开设置，搜maven，然后按照截图配置
