@@ -196,7 +196,7 @@ axios 是前端网络请求的强大工具，核心特点：
 
 入门阶段重点掌握 GET/POST 请求的基本用法，以及如何处理成功 / 失败的情况，后续可深入学习拦截器、实例化配置等高级功能。
 
-![【哲风壁纸】02插画-Twotwo](axios入门.assets\【哲风壁纸】02插画-Twotwo.png)
+<img alt="【哲风壁纸】02插画-Twotwo" src="axios入门.assets\【哲风壁纸】02插画-Twotwo.png"/>
 
 
 
